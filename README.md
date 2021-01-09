@@ -1,1 +1,1 @@
-# pyautogui_lib library pyauthogui o python, mouse crawls on the screen 
+# pyautogui_lib library pyauthogui on python, mouse crawls on the screen 
